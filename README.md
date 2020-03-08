@@ -31,7 +31,7 @@ For my code editor, I use [visual Code](https://code.visualstudio.com/), which c
 ## Usage 
 
 Here is an example of the changes I made to the source code. You can see that I added notes to help get a clear understanding.
-![VS Code Refactoring](split-codesource-ex.png)
+![VS Code Refactoring](split-codesoure-ex.png)
 
 ## Credits
 
